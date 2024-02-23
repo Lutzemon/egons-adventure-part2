@@ -1,0 +1,33 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "Level1": {
+        "id": "Level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBjMGMwMTBjMGMwYzA4MGMwYzBjMGMwMTAxMGMwYzBjMDgwNDAyMDIwMjAyMDIwMjAyMDUwODA0MDIwMjA1MGMwYzAzMDEwYzA0MDIwMjAyMDUwMzBjMDMwOTBiMDMwODAxMDMwYzBjMDMwYzBjMDEwMzAzMGMwMzA5MGEwMzBjMGMwNjAyMDIwNzBjMGMwYzAzMDMwODAzMGEwOTAzMGMwNDAyMDIwMjAyMDIwYzBjMDMwMzA4MDMwOTBhMDMwYzAzMGMwMTBjMDEwYzBjMGMwMzAzMDgwMzA5MDkwMzA4MDYwMjAyMDIwMjAyMDIwMjA3MDMwODAzMDkwOTAzMDgwYzA0MDIwMjAyMDIwMjA1MDEwMzA4MDMwYTA5MDMwODAxMDMwYzA4MGMwMTBjMDMwMTAzMGMwMzA5MDkwMzA4MDEwMzBjMDEwMTAxMGMwNjAyMDcwYzAzMDkwYjAzMGMwODAzMGMwYzA4MGMwMTBjMGMwYzA4MDMwYTBiMDMwYzBjMDYwMjAyMDIwMjAyMDIwMjAyMDIwNzBhMGIwMzBjMDEwYzBjMGMwMTBjMDgwYzBjMGMwMTBjMGMwYzAzMGMwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDcwYzBjMGMwYzAxMGMwYzBjMGMwYzAxMGMwYzBjMGMwMTBjMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadVertical",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadTurn2",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadTurn4",
+            "sprites.castle.tileGrass3",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.castle.tileDarkGrass3",
+            "sprites.castle.tileGrass1"
+        ],
+        "displayName": "Level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}

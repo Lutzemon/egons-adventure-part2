@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="`pH{H?%],zhM6Hz37;7F">mySprite</variable><variable type="KIND_SpriteKind" id="M;6e[n8rBO.i~`0JUVR;">Player</variable><variable type="KIND_SpriteKind" id="wwmf[Y7E^P[kEGY|.CA]">Projectile</variable><variable type="KIND_SpriteKind" id="c]0D6OeqUIoIQx.}$F04">Food</variable><variable type="KIND_SpriteKind" id="(D#k|FZjpy,+%eS!~Dp/">Enemy</variable></variables><block type="pxt-on-start" id=")`St=lu/FdDe08eP]$c," x="0" y="0"><statement name="HANDLER"><block type="camerafollow" id="T}n|~c}*^{]=TZ9}en]+"><value name="sprite"><block type="variables_get" id="twx!k@rAS2{TyPC;M-{d"><field name="VAR" id="`pH{H?%],zhM6Hz37;7F">mySprite</field></block></value><next><block type="set_current_tilemap" id="$cWkX$H+jJ;l.b^yYO?J"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="z5PhqsmC`Ff*@g0k8WxN"><field name="tilemap">tilemap`Level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"Level1"}}</data></shadow></value><next><block type="variables_set" id="yn9e]-Nl8bQB$5RO(i+0"><field name="VAR" id="`pH{H?%],zhM6Hz37;7F">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="ZDN#t@vT*;c-RL!OAXjq"><value name="img"><shadow type="screen_image_picker" id=".x}I;7*#^-0*iP`-=]T@"><field name="img">img`
+. . . . 8 8 8 8 8 . . . . . . . 
+. . . 8 6 6 6 6 6 8 8 . . . . . 
+. . 8 6 6 6 6 6 6 6 8 8 . . . . 
+. 8 b 7 6 6 6 6 6 7 9 8 . . . . 
+8 b 9 7 6 6 6 6 7 7 9 9 8 8 . . 
+8 9 9 7 6 6 6 7 7 7 9 9 6 6 8 . 
+8 9 9 6 7 7 7 7 7 6 9 9 6 6 6 8 
+8 9 9 8 8 8 8 8 8 8 9 9 6 6 6 8 
+8 9 b 8 b 8 b b b 8 b 9 6 6 6 8 
+8 b 8 b b 8 b b b b 8 8 8 8 6 8 
+8 8 8 6 6 8 6 6 6 6 8 8 3 3 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 3 3 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
+8 8 f f f 8 8 8 8 f f f 8 8 8 8 
+. f c c b f 8 8 f c c b f 8 8 . 
+. . f b b . . . . f b b . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":".x}I;7*#^-0*iP`-=]T@"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="je-5Y]CGS:!/?AP-PfX6"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></statement></block></xml>
