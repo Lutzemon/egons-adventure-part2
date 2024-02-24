@@ -15,4 +15,3 @@ let mySprite: Sprite = null
 scene.cameraFollowSprite(mySprite)
 tiles.setCurrentTilemap(tilemap`Level1`)
 mySprite = sprites.create(assets.image`meinBild0`, SpriteKind.Player)
-music.play(music.createSong(assets.song`mega`), music.PlaybackMode.LoopingInBackground)
